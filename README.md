@@ -1,1 +1,1 @@
-# my_cine_app
+# my_cine
